@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9cc1ade40d8135683ad4eb4bba290a637f461410bfa440e4a8e6e704dce669ff",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x9cc1ade40d8135683ad4eb4bba290a637f461410bfa440e4a8e6e704dce669ff",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Phantom Frens",
+  "SYMBOL": "PF NFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 300000000000000,
+  "DISPLAY_COST": 30,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/assets/mumbai/0x292c263ef6a4f0f480fd76423517f7d56e321abc/",
+  "SHOW_BACKGROUND": true
+}
